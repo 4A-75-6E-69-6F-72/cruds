@@ -45,7 +45,7 @@
                            </font>
                         </Text>
                         <StackPane prefHeight="42.0" prefWidth="0.0" HBox.hgrow="SOMETIMES" />
-                        <Button focusTraversable="false" mnemonicParsing="false" onAction="#update" prefHeight="25.0" prefWidth="85.0" text="Update">
+                        <Button focusTraversable="false" mnemonicParsing="false" onAction="#update" prefHeight="25.0" prefWidth="85.0" text="Edit">
                            <cursor>
                               <Cursor fx:constant="HAND" />
                            </cursor>
